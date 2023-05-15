@@ -1,0 +1,12 @@
+.stickyNav{
+    position: sticky;
+    top: 0;
+    z-index: 10;
+    background-color: #f7fafc;
+}
+
+.stickySideBar{
+    position: sticky;
+    top: 0;
+    height: 100vh;
+}
