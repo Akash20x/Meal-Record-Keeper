@@ -3,7 +3,7 @@ A MERN Stack application where users can manage their meals with additional priv
 
 #### ✅ Link: https://meal-record-keeper.vercel.app/
 
-## Backend: https://github.com/Akash20x/meal-record-api
+#### Backend: https://github.com/Akash20x/meal-record-api
 
 ## 📝 Technologies
 Meal Record Keeper is built using the following stack & some small libraries:
