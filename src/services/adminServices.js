@@ -1,7 +1,7 @@
 import { createAsyncThunk } from "@reduxjs/toolkit";
 import axios from "axios";
 
-const BASE_API =  'https://meal-record-api.up.railway.app/api/admin'
+const BASE_API =  'https://meal-record-api.vercel.app/api/admin'
 
 
   export const fetchAllUsers = createAsyncThunk(
