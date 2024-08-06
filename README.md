@@ -1,5 +1,5 @@
 # Meal Record Keeper
-A MERN Stack application where users can manage their meals with additional privledges to admins 
+A MERN Stack application where users can manage their meals with additional privileges to admins 
 
 #### ✅ Link: https://meal-record-keeper.vercel.app/
 
@@ -22,7 +22,7 @@ Meal Record Keeper is built using the following stack & some small libraries:
 - Mongoose
 - Jsonwebtoken
 - Bcryptjs
-- Deploy on Railway
+- Deploy on Vercel
 
 ## 💡 Features
 - Create meals with name, time and calories
